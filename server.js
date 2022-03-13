@@ -6,7 +6,7 @@ const cors = require('cors')
 const fs = require('fs-extra')
 
 app.use(bodyParser.urlencoded({ extended: false}))
-app.use(cors())
+app.use(cors({origin: true}))
 
 app.get('/home', (req, res) => {
     const content = fs.readFileSync('./home_assets.txt', 'utf-8')
