@@ -1,0 +1,14 @@
+{
+    "name": "Ross Morrison",
+    "phone": "xxx-xxx-xxxx",
+    "xpheader": "PlaceIWorked, xx/xxxx-xx/xxxx",
+    "xpitem": "Developed C program to steer radar beam",
+    "xpitem2": "Wrote Python scripts to interpret flight data",
+    "xpitem3": "Developed team-working skills",
+    "edheader": "BS Computer Science, Some University 20xx-20xx",
+    "editem": "Total GPA: x.xx",
+    "editem2": "Major GPA: x.xx",
+    "prheader": "A project I've worked on",
+    "pritem": "architecture information",
+    "pritem2": "something notable about project"
+}
